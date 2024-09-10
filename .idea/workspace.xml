@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec039090-3c8f-42f3-b2aa-4faed3d8ad7c" name="Changes" comment="Comit 4 para git">
+    <list default="true" id="ec039090-3c8f-42f3-b2aa-4faed3d8ad7c" name="Changes" comment="Comit 5 para git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProjectCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProjectsSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectsSection.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,12 @@
     &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\JLRL\\AppData\\Local\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CLASES2023\2DAW_2324\DWEC\Practicas\React\mi-portfolio-react\public\images\projects" />
+      <recent name="C:\CLASES2023\2DAW_2324\DWEC\Practicas\React\mi-portfolio-react\dist\images\projects" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -64,6 +70,7 @@
     <MESSAGE value="Comit 2 para git" />
     <MESSAGE value="Comit 3 para git" />
     <MESSAGE value="Comit 4 para git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comit 4 para git" />
+    <MESSAGE value="Comit 5 para git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comit 5 para git" />
   </component>
 </project>

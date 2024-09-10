@@ -12,10 +12,10 @@ const Home = () => {
   return (
     <div className="pt-3 bg-gray-300 dark:bg-gray-900 dark:bg-[url('./assets/images/bg-mobile-dark.jpg')] dark:lg:bg-[url('./assets/images/bg-desktop-dark.jpg')] bg-cover h-44 bg-no-repeat bg-[url('./assets/images/bg-mobile-light.jpg')] lg:bg-[url('./assets/images/bg-desktop-light.jpg')]">
       <Header />
-      <div className='flex grid-cols-6 gap-10 mb-14'>
+      <div className='flex grid-cols-6 gap-4 mb-14'>
         <NavBar />
         <div className='col-span-1'></div>
-        <div className='w-40 bi-border-width align-middle pb-2 z-8'>
+        <div className='w-40  align-middle pb-2 z-10'>
           <AccountImage />
         </div>
         <div className='col-span-4 text-left'>
@@ -28,7 +28,7 @@ const Home = () => {
             className='text-white'
           />
         </div>
-        </div>
+      </div>
       <div className='grid grid-cols-1 gap-1 lg:grid-cols-3 mb-1 -mt-8 align-middle'>
         <div className='grid grid-rows-1 grid-flow-col gap-2'>
           <div className='bg-teal-200 dark:bg-gray-700 dark:text-white p-6'>
@@ -46,8 +46,8 @@ const Home = () => {
               <br /> Graduado en el{' '}
               <strong>desarrollo de Aplicaciones web</strong> y en continuo
               aprendizaje como es lógico en esta área. <br />
-              Partiendo de la maquetacion diseño la arquitectura
-              con diferentes tecnologías.
+              Partiendo de la maquetacion diseño la arquitectura con diferentes
+              tecnologías.
             </p>
           </div>
         </div>
@@ -95,7 +95,7 @@ const Home = () => {
       <div className='grid grid-cols-4 gap-1 lg:grid-cols-3 text-center bg-gray-600'>
         <div className='col-span-4 lg:col-end-4 bg-gray-500 text-white dark:bg-gray-900 p-6  lg:pt-2'>
           <div className='w-40 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-opacity-60 dark:via-gray-900 dark:to-pink-900 -mt-12 py-4 float-right shadow-md '>
-            <strong className="text-2xl text-center dark:text-white pt-4 ">
+            <strong className='text-2xl text-center dark:text-white pt-4 '>
               Experiencia <br />
               4 Años <br />
             </strong>

@@ -1,7 +1,6 @@
 import ProjectCard from './ProjectCard'
 
 const projectsData = [
-
   {
     id: 1,
     title: 'Wordpress',
@@ -55,7 +54,7 @@ const projectsData = [
     image: 'AdobeProject',
     tag: ['All', 'Web'],
   },
-   {
+  {
     id: 7,
     title: 'En curso',
     description: 'Proyecto fin de  curso',

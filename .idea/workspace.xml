@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec039090-3c8f-42f3-b2aa-4faed3d8ad7c" name="Changes" comment="Comit 5 para git" />
+    <list default="true" id="ec039090-3c8f-42f3-b2aa-4faed3d8ad7c" name="Changes" comment="Comit 6 para git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +67,7 @@
     <MESSAGE value="Comit 3 para git" />
     <MESSAGE value="Comit 4 para git" />
     <MESSAGE value="Comit 5 para git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comit 5 para git" />
+    <MESSAGE value="Comit 6 para git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comit 6 para git" />
   </component>
 </project>

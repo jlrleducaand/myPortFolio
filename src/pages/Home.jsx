@@ -40,15 +40,14 @@ const Home = () => {
             </h1>
             <p className=' font-sans text-center pt-4'>
               Diseñador de aplicaciones web a través de lenguajes de marca y
-              lenguajes de programación, Actuando desde el diseño de la
+              lenguajes de programación, <br /> Actuando desde el diseño de la
               arquitectura hasta su funcionamiento en Api-Rest listas para
               consumir.
               <br /> Graduado en el{' '}
               <strong>desarrollo de Aplicaciones web</strong> y en continuo
               aprendizaje como es lógico en esta área. <br />
-              Partiendo del diseño de arquitectura, diseño gráfico, maquetación
-              con diferentes tecnologías y desarrollando mediante el uso de
-              Frameworks de Java y de JS además Wordpress y otros CMS.
+              Partiendo de la maquetacion diseño la arquitectura
+              con diferentes tecnologías.
             </p>
           </div>
         </div>

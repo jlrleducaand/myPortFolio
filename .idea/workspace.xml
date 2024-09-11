@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec039090-3c8f-42f3-b2aa-4faed3d8ad7c" name="Changes" comment="Comit 10 para git">
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
+    <list default="true" id="ec039090-3c8f-42f3-b2aa-4faed3d8ad7c" name="Changes" comment="Comit 12 para git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DWES/Trim2/Microservices/SpringMicroservices/zinfo.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DWES/Trim2/Microservices/SpringMicroservices/zinfo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,20 +31,20 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/CLASES2023/2DAW_2324/DWEC/Practicas/React/mi-portfolio-react/dist/images/projects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.run.executor": "Run",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "ts.external.directory.path": "C:\\Users\\JLRL\\AppData\\Local\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/CLASES2023/2DAW_2324/DWEC/Practicas/React/mi-portfolio-react/dist/images/projects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.run.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\JLRL\\AppData\\Local\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\CLASES2023\2DAW_2324\DWEC\Practicas\React\mi-portfolio-react\dist\images\projects" />
@@ -92,6 +93,8 @@
     <MESSAGE value="Comit 78para git" />
     <MESSAGE value="Comit 9 para git" />
     <MESSAGE value="Comit 10 para git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comit 10 para git" />
+    <MESSAGE value="Comit 11 para git" />
+    <MESSAGE value="Comit 12 para git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comit 12 para git" />
   </component>
 </project>

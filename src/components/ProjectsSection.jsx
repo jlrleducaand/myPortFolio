@@ -40,7 +40,8 @@ const projectsData = [
   {
     id: 5,
     title: 'Spring-Microservices',
-    description: 'Proyecto Microservicios con SprigBoot (Feing)  MySQL MongoDB GITHUB',
+    description:
+      'Proyecto Microservicios con SprigBoot Feing MySQL MongoDB GITHUB',
     https: 'https://github.com/joseluisromanleon/spring-microservices-init.git',
     image: 'postman',
     tag: ['All', 'Web'],

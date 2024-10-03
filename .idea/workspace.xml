@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec039090-3c8f-42f3-b2aa-4faed3d8ad7c" name="Changes" comment="Comit 12 para git">
-      <change afterPath="$PROJECT_DIR$/public/images/projects/postman.jpg" afterDir="false" />
+    <list default="true" id="ec039090-3c8f-42f3-b2aa-4faed3d8ad7c" name="Changes" comment="Comit 13 para git  añadido microservicios">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ProjectsSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectsSection.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../DWES/Trim2/Microservices/SpringMicroservices/zinfo.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DWES/Trim2/Microservices/SpringMicroservices/zinfo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +97,7 @@
     <MESSAGE value="Comit 10 para git" />
     <MESSAGE value="Comit 11 para git" />
     <MESSAGE value="Comit 12 para git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comit 12 para git" />
+    <MESSAGE value="Comit 13 para git  añadido microservicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comit 13 para git  añadido microservicios" />
   </component>
 </project>

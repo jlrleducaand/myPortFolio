@@ -22,7 +22,7 @@ const SkillDisplay = () => {
     { title: 'Typescript', percent: 10, element: 'Tipificación estructural' },
     {
       title: 'React',
-      percent: 20,
+      percent: 40,
       element:
         'Vite, Components, JSX, Props, State, Common Hooks, Lists and Keys, React Router, GraphQL: Apollo, Frameworks, Formik, API Calls',
     },
@@ -51,7 +51,7 @@ const SkillDisplay = () => {
     },
     {
       title: 'MongoDB',
-      percent: 30,
+      percent: 50,
       element:
         'Apollo, Integración con Visual Studio Code, Atlas, Herramientas y conectores, Compass',
     },
@@ -67,11 +67,12 @@ const SkillDisplay = () => {
       element:
         'Crear Repositorios, control de versiones, Crear ramas, commits, solicitudes de extracción, gestion de conflictos',
     },
+
     {
-      title: 'Docker',
+      title: 'IA',
       percent: 60,
       element:
-        'Crear Repositorios, Dockerizar las tecnologías,en sus diferentes versiones para, reutilización en equipos diferentes, sin problemas de compatibilidades',
+        'Principios de Seguridad, BI con PENTAHO,Hadoop' ,
     },
   ])
 
